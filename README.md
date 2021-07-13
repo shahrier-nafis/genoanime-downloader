@@ -1,5 +1,5 @@
 # genoanime-downloader
-genoanime.com batch link grabber 
+is a batch link grabber for  genoanime.com
 
 ### Setup
 1. `git clone "https://github.com/shahrier-nafis/genoanime-downloader.git"`
